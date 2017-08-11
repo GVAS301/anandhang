@@ -14,20 +14,3 @@ void main()
         printf("0 is neither positive nor negative");
 }
 
-Output 1:
-
-Enter a number:
-0
-0 is neither positive nor negative
-
-Output 2:
-
-Enter a number:
--3
--3 is a negative number
-
-Output 3:
-
-Enter a number:
-100
-100 is a positive number
